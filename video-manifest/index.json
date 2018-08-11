@@ -1,0 +1,44 @@
+{
+  "id": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/uv-electron-demo.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "label": {
+                  "@none": [
+                    "video-manifest"
+                  ]
+                }
+              },
+              "target": "http://174.138.105.19:3000/0d23966e5001a84216deff887d402bcdad4a0baf467a92532e4dd5a00ff4cfa6/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "video-manifest"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "video-manifest"
+    ]
+  }
+}
