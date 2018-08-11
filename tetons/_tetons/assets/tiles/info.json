@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json", 
+  "@id": "tetons", 
+  "height": 3000, 
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json", 
+    {
+      "formats": [
+        "jpg"
+      ], 
+      "qualities": [
+        "default"
+      ]
+    }
+  ], 
+  "protocol": "http://iiif.io/api/image", 
+  "sizes": [], 
+  "tiles": [
+    {
+      "scaleFactors": [
+        1, 
+        2, 
+        4, 
+        8
+      ], 
+      "width": 512
+    }
+  ], 
+  "width": 4000
+}
