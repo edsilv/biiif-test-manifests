@@ -1,21 +1,21 @@
 {
-  "id": "http://edsilv.github.io/biiif-test-manifests/index.json",
+  "id": "https://edsilv.github.io/biiif-test-manifests/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://edsilv.github.io/biiif-test-manifests/index.json/canvas/0",
+      "id": "https://edsilv.github.io/biiif-test-manifests/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://edsilv.github.io/biiif-test-manifests/index.json/canvas/0/annotationpage/0",
+          "id": "https://edsilv.github.io/biiif-test-manifests/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://edsilv.github.io/biiif-test-manifests/index.json/canvas/0/annotation/0",
+              "id": "https://edsilv.github.io/biiif-test-manifests/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://edsilv.github.io/biiif-test-manifests/_tetons/assets/tiles/info.json",
+                "id": "https://edsilv.github.io/biiif-test-manifests/_tetons/assets/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -25,13 +25,13 @@
                 },
                 "service": [
                   {
-                    "id": "http://edsilv.github.io/biiif-test-manifests/_tetons/assets/tiles",
+                    "id": "https://edsilv.github.io/biiif-test-manifests/_tetons/assets/tiles",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
                 ]
               },
-              "target": "http://edsilv.github.io/biiif-test-manifests/index.json/canvas/0"
+              "target": "https://edsilv.github.io/biiif-test-manifests/index.json/canvas/0"
             }
           ]
         }
