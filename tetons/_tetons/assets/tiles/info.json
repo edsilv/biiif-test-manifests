@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json", 
-  "@id": "tetons", 
+  "@id": "https://edsilv.github.io/biiif-test-manifests/tetons/_tetons/assets/tiles", 
   "height": 3000, 
   "profile": [
     "http://iiif.io/api/image/2/level0.json", 
