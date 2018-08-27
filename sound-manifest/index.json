@@ -1,15 +1,32 @@
 {
-  "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json",
+  "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json/canvas/0",
+      "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json/canvas/0/annotationpage/0",
+          "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
-          "items": []
+          "items": [
+            {
+              "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/somali-love-song.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "label": {
+                  "@none": [
+                    "sound-manifest"
+                  ]
+                }
+              },
+              "target": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0"
+            }
+          ]
         }
       ],
       "label": {
