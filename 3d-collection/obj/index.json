@@ -1,0 +1,50 @@
+{
+  "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/woody/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Fisherman"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/woody/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/harbour/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "The Harbour"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/harbour/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/vertebra/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Vertebra"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "obj"
+    ]
+  }
+}

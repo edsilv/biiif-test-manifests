@@ -1,0 +1,47 @@
+{
+  "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/gltf/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "gltf"
+        ]
+      }
+    },
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/json/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "json"
+        ]
+      }
+    },
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/obj/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "obj"
+        ]
+      }
+    },
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "ply"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "3d-collection"
+    ]
+  }
+}

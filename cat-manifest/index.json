@@ -1,21 +1,21 @@
 {
-  "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/index.json",
+  "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/index.json/canvas/0",
+      "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/index.json/canvas/0/annotationpage/0",
+          "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/index.json/canvas/0/annotation/0",
+              "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/abyssinian.jpg",
+                "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/abyssinian.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/index.json/canvas/0"
+              "target": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/index.json/canvas/0"
             }
           ]
         }
@@ -36,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/thumb.jpeg",
+          "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -49,7 +49,7 @@
   },
   "thumbnail": [
     {
-      "id": "http://174.138.105.19:3000/f67fee3fcb486125b578e14e487e1bb8915ae0e352a3fb72543849334c93b257/thumb.jpeg",
+      "id": "http://142.93.234.230:3000/330558e265d09d9f058cdaa68242400221d519b46ce1c0a04b5fcfdbdda73fcd/thumb.jpeg",
       "type": "Image"
     }
   ]

@@ -1,0 +1,52 @@
+{
+  "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/_pub/pub.ply",
+                "type": "PhysicalObject",
+                "format": "application/ply",
+                "label": {
+                  "@none": [
+                    "_pub"
+                  ]
+                }
+              },
+              "target": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_pub"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Abbott Pub"
+    ]
+  },
+  "attribution": "10d.org.uk",
+  "description": "A LIDAR scan of the Abbott Pub in Redhill",
+  "thumbnail": [
+    {
+      "id": "http://142.93.234.230:3000/7d92da1f75cafcbc51e80c74a4a0b1f091a6043bccaa9e45c594926a3c013bf4/ply/pub/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}

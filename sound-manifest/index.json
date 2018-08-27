@@ -1,0 +1,27 @@
+{
+  "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://142.93.234.230:3000/8c27cfb8d6126b575ef043fa0ac2a48929c7a5c699bf17eb766b8551e6ff20ad/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "label": {
+        "@none": [
+          "sound-manifest"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "sound-manifest"
+    ]
+  }
+}
