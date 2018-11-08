@@ -1,0 +1,20 @@
+{
+  "name": "biiif-test-manifests",
+  "version": "1.0.0",
+  "description": "https://edsilv.github.io/biiif-test-manifests/",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx biiif sound-manifest -u https://edsilv.github.io/biiif-test-manifests/sound-manifest/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/biiif-test-manifests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsilv/biiif-test-manifests/issues"
+  },
+  "homepage": "https://github.com/edsilv/biiif-test-manifests#readme"
+}
