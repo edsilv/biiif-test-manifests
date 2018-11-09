@@ -5,7 +5,6 @@
     {
       "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0",
       "type": "Canvas",
-      "duration": 32,
       "items": [
         {
           "id": "https://edsilv.github.io/biiif-test-manifests/sound-manifest/index.json/canvas/0/annotationpage/0",
