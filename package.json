@@ -4,7 +4,7 @@
   "description": "https://edsilv.github.io/biiif-test-manifests/",
   "main": "index.js",
   "scripts": {
-    "build": "npx biiif sound-manifest -u https://edsilv.github.io/biiif-test-manifests/sound-manifest/"
+    "build": "biiif pdf-manifest -u https://biiif-test-manifests.netlify.com/pdf-manifest/"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/edsilv/biiif-test-manifests/issues"
   },
-  "homepage": "https://github.com/edsilv/biiif-test-manifests#readme"
+  "homepage": "https://github.com/edsilv/biiif-test-manifests#readme",
+  "devDependencies": {
+    "biiif-cli": "^0.1.21"
+  }
 }
